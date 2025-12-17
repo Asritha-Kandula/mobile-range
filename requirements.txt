@@ -1,0 +1,8 @@
+flask
+numpy
+joblib
+scikit-learn
+waitress
+streamlit
+requests
+psutil
